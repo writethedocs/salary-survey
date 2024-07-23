@@ -1,50 +1,55 @@
 # B: Job changes
 
-## Employment or contract status change
+## Salary or contract/freelance income change
 
 ### Employees
 
-Has your employment status changed in the past year? 
+Has your salary changed in the past year? Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the actual amount of compensation you receive. 
    
-- Yes
-- No
+- Yes, my salary increased
+- Yes, my salary decreased
+- No, my salary has stayed the same
 
-Examples of an employment status change: you left a job; were promoted, laid off, made redundant or terminated; you started a new role.
+Why did you salary increase?
 
-What are the circumstances of your employment status change? Check all that apply.
-
+- I received or negotiated a raise
 - I was promoted within the same organization
-- I moved to another position within the same organization
-- I started a new position in a new organization
+- I moved to another position within the same organization 
+- I started a new position in a new organization 
+- Other (please specify)
+
+Why did your salary decrease?
+
+- Organizational salary cuts
 - I was made redundant, downsized or laid off due to restructuring/bankruptcy/closure
-- My employment was terminated for another reason
-- I resigned in order to accept another offer of employment
-- I resigned, but not to accept another offer of employment
-- I would rather not say
+- My employment was terminated 
+- I resigned
+- I moved to another position with the same organization at a lower salary
+- I started a new position in a new organization at a lower salary
 - Other (please specify)
 
 ### Contractors
 
-Has your contract/freelance status changed in the past year? 
+Has your contract or freelance income changed in the past year? Please do not take outside factors such as inflation, cost of living or currency conversion rates into account - just the actual amount of compensation you receive.
 
-- Yes
-- No
+- Yes, my income increased
+- Yes, my income decreased
+- No, my income has stayed around the same
 
-Examples of a contract/freelance status change: a contract or project cancelled prematurely; your regular freelance workload dried up unexpectedly; you started a new contract.
-
-What are the circumstances of your contract/freelance status change? Check all that apply.
+Why did your income increase?
 
 - I started a new contract or freelance project (or multiple projects)
+- I raised my rate
+- I worked more hours
+
+Why did your income decrease?
+
 - A contract or freelance project ended prematurely
 - A contract or freelance project ended as expected
-- My contract was not renewed as expected
-- I resigned in order to start another contract
-- I resigned, but not to start another contract
-- I "fired" a freelance client
+- My contract was not renewed or extended as expected
+- I resigned from a contract or "fired" a freelance client
 - My freelance work pipeline dried up
-- I left employment in order to start as a contractor/freelancer
-- I finished contracting/freelancing in order to accept a position as an employee
-- I would rather not say
+- I lowered my rate
 - Other (please specify)
 
 ## Job or contract search status
@@ -95,4 +100,4 @@ When considering an offer of employment, how important do you consider the follo
 - Organization's pay transparency policy
 - Organization's diversity/inclusivity policy
 
-For each: not relevant, not very important, somewhat important, very important
+For each: 1 - 5 with 1 being of the lowest importance and 5 being of the highest importance
