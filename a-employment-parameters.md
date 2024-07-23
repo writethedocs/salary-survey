@@ -8,6 +8,7 @@ On what basis are you filling out this survey?
 - I was an employee, but am not currently working
 - I'm an independent contractor, freelance operator, or self-employed
 - I was an independent contractor, freelance operator, or self-employed, but am not currently working
+- I am both an employee and a contractor, freelancer operator, or self-employed
 
 ## Hours worked
 
