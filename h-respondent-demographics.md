@@ -1,4 +1,4 @@
-# G: Respondent demographics
+# H: Respondent demographics
 
 ## Age group
 
