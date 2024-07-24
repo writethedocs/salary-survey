@@ -54,18 +54,6 @@ If your education level isn't listed, choose the option that's the closest equiv
 
 ## Location
 
-### Degree of urbanization
-
-Which of the following best describes the type of area where you reside?
-
-- Rural area (low population density, ≤5000 people)
-- Town or suburban area (medium population density, ≤50,000 people)
-- City or urban area (high population density, >50,000 people)
-
-Please refer to this World Bank article on Degree of Urbanization [https://blogs.worldbank.org/sustainablecities/how-do-we-define-cities-towns-and-rural-areas] for more clarification.
-
-## Location
-
 Country: 
 
 - searchable/typeahead dropdown listing all country names/codes
