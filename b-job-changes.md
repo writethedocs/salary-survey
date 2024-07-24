@@ -10,7 +10,7 @@ Has your salary changed in the past year? Please do not take outside factors suc
 - Yes, my salary decreased
 - No, my salary has stayed the same
 
-Why did you salary increase?
+Why did you salary increase? Select multiple, if appropriate. 
 
 - I received or negotiated a raise
 - I was promoted within the same organization
@@ -18,7 +18,7 @@ Why did you salary increase?
 - I started a new position in a new organization 
 - Other (please specify)
 
-Why did your salary decrease?
+Why did your salary decrease? Select multiple, if appropriate.
 
 - Organizational salary cuts
 - I was made redundant, downsized or laid off due to restructuring/bankruptcy/closure
@@ -36,13 +36,13 @@ Has your contract or freelance income changed in the past year? Please do not ta
 - Yes, my income decreased
 - No, my income has stayed around the same
 
-Why did your income increase?
+Why did your income increase? Select multiple, if appropriate.
 
 - I started a new contract or freelance project (or multiple projects)
 - I raised my rate
 - I worked more hours
 
-Why did your income decrease?
+Why did your income decrease? Select multiple, if appropriate.
 
 - A contract or freelance project ended prematurely
 - A contract or freelance project ended as expected
