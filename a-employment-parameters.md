@@ -29,18 +29,25 @@ What is your job title?
 
 How would you categorize your role? Select multiple roles, if appropriate.
 
-- Writer, content creator, producer, editor
+- Writer, content creator, producer, editor (includes audio, video and interactive content as well as written content)
 - Developer, engineer
-- Educator
+- Educator, instructional design
 - Customer support
-- Advocate, community outreach
+- Advocate, community outreach, developer relations
 - Marketing
-- Management
-- Other
+- Manager, team leader
+- Subject matter expert
+- Translation, localization
+- Project manager, product manager
+- Testing, quality assurance
+- Information architecture
+- Mentoring
+- DocOps: documentation tool and workflow administration, repository maintenance, documentation infrastructure development and support
+- Other (please specify)
 
 ## Team configuration
 
-With regard to working with other people, how do you typically operate? Select multiple options, if appropriate.
+When working with other people, what is your typical role? Select multiple options, if appropriate.
 
 - A solo worker
 - Part of a team of people with the same or similar roles
