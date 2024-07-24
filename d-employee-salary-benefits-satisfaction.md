@@ -1,23 +1,12 @@
 # D: Employee salary, benefits and satisfaction
 
-## Currency
-
-What currency are you paid in?
-
-- searchable/typeahead dropdown listing all currency names/codes
-
-## Pay interval
-
-Would you prefer to enter your salary as a yearly or monthly amount?
-
-- monthly 
-- yearly
-
 ## Salary
 
 What is your total (gross) salary (including tax)? 
 
 If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
+
+\[dropdown: currencies] \[numeric entry field] \[dropdown: paid monthly|yearly]
 
 ## Benefits
 
