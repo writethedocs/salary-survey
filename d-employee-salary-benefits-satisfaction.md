@@ -45,86 +45,55 @@ Does your salary package include any additional benefits? Check all that apply, 
 
 Considering only your salary and benefits, rate your level of satisfaction:
 
-- Very unsatisfied
-- Unsatisfied
-- Neutral
-- Satisfied
 - Very satisfied
-
-## Factors affecting salary satisfaction
-
-What reasons do you have for dissatisfaction with your salary and benefits, if any? Check all that apply, or check "none of the above":
-
-- Salary is too low
-- Benefits are missing or insufficient
-- Discrepancy between salary and cost of living in my area
-- Unfair or inconsistent salary across similar roles in my organization
-- I know or suspect a gender pay gap exists in my organization
-- I work too many hours
-- I don't work enough hours
-- Responsibilities exceed pay grade
-- None of the above
-- Other (please specify)
+- Satisfied
+- Neutral
+- Unsatisfied
+- Very unsatisfied
 
 ## Job satisfaction
 
 Considering your overall employment conditions - separate from your salary and benefits - rate your level of satisfaction:
 
-- Very unsatisfied
-- Unsatisfied
-- Neutral
-- Satisfied
 - Very satisfied
+- Satisfied
+- Neutral
+- Unsatisfied
+- Very unsatisfied
 
-# Factors affecting job satisfaction
+## Factors affecting satisfaction
 
-What reasons do you have for dissatisfaction with your overall employment conditions, if any? Check all that apply, or check "none of the above":
+How strongly do you agree with the following statements? 
 
-- My workload is too high
-- My workload is too low
-- There is too much stress or pressure
-- The work is not interesting or challenging enough
-- Role is undervalued or underfunded
-- No opportunities for advancement
-- Unsupportive work environment
-- Insufficient opportunities for professional development
-- Outdated, inadequate or unsatisfactory toolset
-- Management not open to change
-- No opportunity for remote work
-- I don't feel supported as a remote worker
-- No office location is available to me
-- I don't feel respected
-- I am discriminated against on the basis of gender
-- I am discriminated against on the basis of race or nationality
-- I am discriminated against on the basis of age
-- I am discriminated against on the basis of education level
-- I am discriminated against for some other reason, or a reason I do not wish to share
-- Too much bureaucratic overhead/too many meetings
-- Issues with co-workers
-- Bullying and/or harassment
-- Organizational politics
-- Lack of pay transparency
-- Job instability
-- None of the above
-- Other (please specify)
+- Not relevant
+- Strongly agree
+- Agree
+- Neither agree nor disagree
+- Disagree
+- Strongly disagree
 
-## Factors enhancing salary and job satisfaction
+Statements:
 
-Considering your salary, benefits, and overall employment conditions, what do you like about your current job? Check all that apply, or check "none of the above":
-
-- I like and/or respect my co-workers
-- I like and/or respect the organization I work for
-- I'm compensated fairly for the work I do
 - I'm satisfied with my benefits
-- My workload is manageable
-- My manager's expectations are realistic/reasonable
-- The work is sufficiently interesting and/or challenging
-- My contributions are valued
-- I feel respected
+- Salaries are consistent across similar roles in my organization
+- All genders are paid equally in my organization
+- My salary keeps up with inflation and the cost-of-living in my area
+- My role is sufficiently valued and funded
+- I work a reasonable number of hours each week
+- My responsibilities, workload and the expectations upon me are reasonable
+- I feel respected and that my contributions are valued
+- My workplace is generally supportive
 - I feel I am making a positive impact (in my organization, industry, community, or the wider world)
 - I have opportunities for career development and advancement
-- I have opportunities for professional development/learning
-- I have flexibility in working hours or location
-- I feel I have work-life balance
-- None of the above
-- Other (please specify)
+- I have opportunities for professional development and learning
+- I have flexibility in my working hours or location
+- My work is sufficiently interesting or challenging
+- I like and/or respect my co-workers
+- I like and/or respect my managers and team leaders
+- I like and/or respect the organization I work for
+- I'm satisfied with the systems and toolsets I use
+- I'm satisfied with the methodologies employed by my organization or team
+- My organization or team's remote work environment functions well 
+- My organization or team's on-site work environment functions well
+- My organization or team's hybrid work environment functions well
+- My workplace is free from bullying, harassment or discrimination 
