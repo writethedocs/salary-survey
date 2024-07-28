@@ -20,6 +20,9 @@ What kind of contract, freelance or self-employed work do you typically engage i
 - I work on long-term projects (6 to 12 months or longer)
 - I offer a specific product or products
 - I offer a specific service or services
+- I work as a contractor or freelance to supplement my regular employment income
+- I work as a contractor or freelance as a stopgap while looking for regular employment
+- I work as a contractor or freelance with a view to securing permanent employment with the same organization 
 - Other (please specify)
 
 ## Currency
