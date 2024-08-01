@@ -22,21 +22,16 @@ What kind of contract, freelance or self-employed work do you typically engage i
 - I offer a specific service or services
 - Other (please specify)
 
-## Currency
-
-What is the primary currency that you use?
-
-- searchable/typeahead dropdown listing all currency names/codes
-
 ## Rates
 
-What is your hourly rate?
-
-What is you day rate?
-
-What is your monthly rate?
-
 Please don't include any VAT, GST or sales tax. 
+
+\[dropdown: currency] \[numeric entry field] \[hourly rate]<br>
+\[dropdown: currency] \[numeric entry field] \[day rate]<br>
+\[dropdown: currency] \[numeric entry field] \[monthly rate]
+
+> [!NOTE]
+> Validation: respondent must add at least one rate 
 
 ## Rate satisfaction
 
