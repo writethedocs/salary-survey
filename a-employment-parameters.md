@@ -27,22 +27,49 @@ What is your job title?
 
 ## Type of role
 
-How would you categorize your role? Select multiple roles, if appropriate.
+How would you categorize your primary role? Please select one category - you will be able to select additional categories in the next question.
 
-- Writer, content creator, producer, editor (includes audio, video and interactive content as well as written content)
-- Developer, engineer
-- Educator, instructional design
+- Technical writer
+- UX writer
+- Editor
+- Programmer-writer (code samples, sample applications, etc)
+- Content producer (audio, video, and/or interactive content)
+- Developer or engineer
+- Educator, trainer, or instructional designer
 - Customer support
-- Advocate, community outreach, developer relations
+- Developer relations, community outreach, advocate
 - Marketing
-- Manager, team leader
+- Manager or team leader
 - Subject matter expert
 - Translation, localization
 - Project manager, product manager
 - Testing, quality assurance
 - Information architecture
 - Mentoring
-- DocOps: documentation tool and workflow administration, repository maintenance, documentation infrastructure development and support
+- Doc ops (documentation tool and workflow administration, repository maintenance, documentation infrastructure development and support)
+- Other (please specify)
+
+What additional roles do you also perform?
+Choose multiple if appropriate. 
+
+- Technical writer
+- UX writer
+- Editor
+- Programmer-writer (code samples, sample applications, etc)
+- Content producer (audio, video, and/or interactive content)
+- Developer or engineer
+- Educator, trainer, or instructional designer
+- Customer support
+- Developer relations, community outreach, advocate
+- Marketing
+- Manager or team leader
+- Subject matter expert
+- Translation, localization
+- Project manager, product manager
+- Testing, quality assurance
+- Information architecture
+- Mentoring
+- Doc ops (documentation tool and workflow administration, repository maintenance, documentation infrastructure development and support)
 - Other (please specify)
 
 ## Team configuration
