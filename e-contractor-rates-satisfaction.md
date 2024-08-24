@@ -20,23 +20,21 @@ What kind of contract, freelance or self-employed work do you typically engage i
 - I work on long-term projects (6 to 12 months or longer)
 - I offer a specific product or products
 - I offer a specific service or services
+- I work as a contractor or freelance to supplement my regular employment income
+- I work as a contractor or freelance as a stopgap while looking for regular employment
+- I work as a contractor or freelance with a view to securing permanent employment with the same organization 
 - Other (please specify)
-
-## Currency
-
-What is the primary currency that you use?
-
-- searchable/typeahead dropdown listing all currency names/codes
 
 ## Rates
 
-What is your hourly rate?
-
-What is you day rate?
-
-What is your monthly rate?
-
 Please don't include any VAT, GST or sales tax. 
+
+\[dropdown: currency] \[numeric entry field] \[hourly rate]<br>
+\[dropdown: currency] \[numeric entry field] \[day rate]<br>
+\[dropdown: currency] \[numeric entry field] \[monthly rate]
+
+> [!NOTE]
+> Validation: respondent must add at least one rate 
 
 ## Rate satisfaction
 

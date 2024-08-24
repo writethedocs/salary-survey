@@ -27,20 +27,54 @@ What is your job title?
 
 ## Type of role
 
-How would you categorize your role? Select multiple roles, if appropriate.
+How would you categorize your primary role? Please select one category - you will be able to select additional categories in the next question.
 
-- Writer, content creator, producer, editor
-- Developer, engineer
-- Educator
+- Technical writer
+- UX writer
+- Editor
+- Programmer-writer (code samples, sample applications, etc)
+- Content producer (audio, video, and/or interactive content)
+- Developer or engineer
+- Educator, trainer, or instructional designer
 - Customer support
-- Advocate, community outreach
+- Developer relations, community outreach, advocate
 - Marketing
-- Management
-- Other
+- Manager or team leader
+- Subject matter expert
+- Translation, localization
+- Project manager, product manager
+- Testing, quality assurance
+- Information architecture
+- Mentoring
+- Doc ops (documentation tool and workflow administration, repository maintenance, documentation infrastructure development and support)
+- Other (please specify)
+
+What additional roles do you also perform?
+Choose multiple if appropriate. 
+
+- Technical writer
+- UX writer
+- Editor
+- Programmer-writer (code samples, sample applications, etc)
+- Content producer (audio, video, and/or interactive content)
+- Developer or engineer
+- Educator, trainer, or instructional designer
+- Customer support
+- Developer relations, community outreach, advocate
+- Marketing
+- Manager or team leader
+- Subject matter expert
+- Translation, localization
+- Project manager, product manager
+- Testing, quality assurance
+- Information architecture
+- Mentoring
+- Doc ops (documentation tool and workflow administration, repository maintenance, documentation infrastructure development and support)
+- Other (please specify)
 
 ## Team configuration
 
-With regard to working with other people, how do you typically operate? Select multiple options, if appropriate.
+When working with other people, what is your typical role? Select multiple options, if appropriate.
 
 - A solo worker
 - Part of a team of people with the same or similar roles

@@ -1,23 +1,12 @@
 # D: Employee salary, benefits and satisfaction
 
-## Currency
-
-What currency are you paid in?
-
-- searchable/typeahead dropdown listing all currency names/codes
-
-## Pay interval
-
-Would you prefer to enter your salary as a yearly or monthly amount?
-
-- monthly 
-- yearly
-
 ## Salary
 
 What is your total (gross) salary (including tax)? 
 
 If your total compensation is made up of a base salary and significant bonus, equity or commission payments, please enter your total compensation here (or an average, if it fluctuates).
+
+\[dropdown: currencies] \[numeric entry field] \[dropdown: paid monthly|yearly]
 
 ## Benefits
 
@@ -74,26 +63,26 @@ How strongly do you agree with the following statements?
 
 Statements:
 
-- I'm satisfied with my benefits
-- Salaries are consistent across similar roles in my organization
-- All genders are paid equally in my organization
-- My salary keeps up with inflation and the cost-of-living in my area
-- My role is sufficiently valued and funded
-- I work a reasonable number of hours each week
-- My responsibilities, workload and the expectations upon me are reasonable
-- I feel respected and that my contributions are valued
-- My workplace is generally supportive
-- I feel I am making a positive impact (in my organization, industry, community, or the wider world)
-- I have opportunities for career development and advancement
-- I have opportunities for professional development and learning
-- I have flexibility in my working hours or location
-- My work is sufficiently interesting or challenging
-- I like and/or respect my co-workers
-- I like and/or respect my managers and team leaders
-- I like and/or respect the organization I work for
-- I'm satisfied with the systems and toolsets I use
-- I'm satisfied with the methodologies employed by my organization or team
-- My organization or team's remote work environment functions well 
-- My organization or team's on-site work environment functions well
-- My organization or team's hybrid work environment functions well
-- My workplace is free from bullying, harassment or discrimination 
+I'm satisfied with my benefits
+Salaries are consistent across similar roles in my organization
+All genders are paid equally in my organization
+My salary keeps up with inflation and the cost-of-living in my area
+My role is sufficiently valued and funded
+I work a reasonable number of hours each week
+My responsibilities, workload and the expectations upon me are reasonable
+I feel respected and that my contributions are valued
+My workplace is generally supportive
+I feel I am making a positive impact (in my organization, industry, community, or the wider world)
+I have opportunities for career development and advancement
+I have opportunities for professional development and learning
+I have flexibility in my working hours or location
+My work is sufficiently interesting or challenging
+I like and/or respect my co-workers
+I like and/or respect my managers and team leaders
+I like and/or respect the organization I work for
+I'm satisfied with the systems and toolsets I use
+I'm satisfied with the methodologies employed by my organization or team
+My organization or team's remote work environment functions well
+My organization or team's on-site work environment functions well
+My organization or team's hybrid work environment functions well
+My workplace is free from bullying, harassment or discrimination
