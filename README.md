@@ -45,6 +45,6 @@ When proposing changes, keep the following in mind:
 There's a number of ways you can contribute:
 
 - raise a new issue to begin a discussion
-- comment on an existing issue to add your voice
+- comment on [an existing issue](https://github.com/writethedocs/salary-survey/issues) to add your voice
 - propose a change by submitting a pull request
-- comment on an existing pull request
+- comment on [an existing pull request](https://github.com/writethedocs/salary-survey/pulls)
