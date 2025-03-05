@@ -2,8 +2,6 @@
 
 :question: Documentation is:
 
-Contractors: substitute "area of expertise" or "professional offering" for "official job description", as appropriate to your situation.
-
 - the whole of my official job description
 - part of my official job description
 - not officially part of my job description, but I am expected to perform documentation-related tasks
