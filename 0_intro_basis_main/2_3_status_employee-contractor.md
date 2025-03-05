@@ -30,4 +30,4 @@ Some of the questions may have different answers depending on whether you’re c
 	Please fill out the survey as though you were still working at your last job.
 </details>
 
-[Start the survey](A_employment_parameters/1.md)
+[Start the survey](./4_main_form_employee-contractor.md)

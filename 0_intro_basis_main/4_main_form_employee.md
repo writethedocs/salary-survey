@@ -14,7 +14,7 @@ When all the sections have been filled out, the final “Submit” button will b
 
 Questions about the type of work you do, your workplace, and any changes that have occurred in the past year.
 
-**Your Job** (8 questions) <kbd> <br> [Answer Questions](/A_employment_parameters/1.md) <br> </kbd>
+**Your Job** (8 questions) <kbd> <br> [Answer Questions](../A_employment_parameters/A_1_hours.md) <br> </kbd>
 
 **Workplace** (5–6 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
 
