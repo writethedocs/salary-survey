@@ -8,40 +8,52 @@ When all the sections have been filled out, the final “Submit” button will b
 
 ## Basis of employment
 
-:bulb: You’re seeing the survey questions for a contractor, freelancer or self-employed person.
+<details>
+	<summary>condition: employee</summary>
+	You’re seeing the survey questions for an employee.
+</details>
 
-## Your job
+<details>
+	<summary>condition: contractor</summary>
+	You’re seeing the survey questions for a contractor, freelancer or self-employed person.
+</details>
+
+<details>
+	<summary>condition: employee and contractor</summary>
+	You’re seeing the survey questions for both an employee and a contractor, freelancer or self-employed person.
+</details>
+
+## Your job 
 
 Questions about the type of work you do, your workplace, and any changes that have occurred in the past year.
 
-**Your Job** (8 questions) 
-<kbd>[Answer Questions](../A_employment_parameters/A_1_hours_employee.md)</kbd>
+**Your Job** (8 questions) <kbd>[Answer Questions - Employees](../A_employment_parameters/A_1_hours_employee.md)</kbd> <kbd>[Answer Questions - Contractors](../A_employment_parameters/A_1_hours_contractor.md)</kbd>
 
 **Workplace** (5–6 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions](../B_workplace/B_1_work_location.md)</kbd>
 
 **Job Changes** (5–6 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions - Employees]()</kbd> <kbd>[Answer Questions - Contractors]()</kbd>
 
-## Your salary
+## Your salary 
 
 :bulb: Questions about your salary and benefits as an employee, and your level of satisfaction.
 
 **Salary & Benefits** (6 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions - Employees]()</kbd>
 
 **Employee Satisfaction** (7 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions - Employees]()</kbd>
 
-## Your rates
+## Your rates 
 
 :bulb: Questions about your contract rates, and your level of satisfaction.
 
 **Rates** (5 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions - Contractors]()</kbd>
 
 **Contractor Satisfaction** (7 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions - Contractors]()</kbd>
 
 ## Demographics
 

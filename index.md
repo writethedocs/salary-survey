@@ -46,4 +46,4 @@ Estimated time to complete the entire survey is 15-20 minutes.
 
 **One final note:** while it’s possible to successfully complete the survey on mobile devices, due to the scope of the survey and some of the long lists of options, the user experience is definitely better on larger screens.
 
-<kbd>[Get started](./0_intro_basis_main/1_basis_all.md)</kbd>
+<kbd>[Get started](0_intro_basis_main/0_1_basis_all.md)</kbd>

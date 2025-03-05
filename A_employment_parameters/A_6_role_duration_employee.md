@@ -17,5 +17,5 @@ If you have changed roles at the same organization, please select the length of 
 	Please indicate how many years:
 </details>
 
-<kbd>[Previous question](./A_5_team_breakdown_employee.md)</kbd> 
+<kbd>[Previous question](A_5_team_configuration_employee.md)</kbd> 
 <kbd>[Next question](./A_7_official_duties_employee.md)</kbd>

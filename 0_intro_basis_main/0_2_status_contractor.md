@@ -1,12 +1,12 @@
 # Current employment status
 
 :question: As a contractor or freelancer, currently:
-- [I have work](./4_main_form_contractor.md)
-- [I don't have work](./4_main_form_contractor.md)
+- I have work
+- I don't have work
 
 <details>
 	<summary>Show message if "I don't have work"</summary>
 	Please fill out the survey as though you were still working at your last contract or with your last freelance client.
 </details>
 
-<kbd>[Start the survey](./4_main_form_contractor.md)</kbd>
+<kbd>[Start the survey](./0_4_main_form.md)</kbd>

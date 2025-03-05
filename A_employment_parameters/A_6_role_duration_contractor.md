@@ -15,5 +15,5 @@ This is how long you have been a contractor or freelancer only - your total year
 	Please indicate how many years:
 </details>
 
-<kbd>[Previous question](./A_5_team_breakdown_contractor.md)</kbd> 
+<kbd>[Previous question](A_5_team_configuration_contractor.md)</kbd> 
 <kbd>[Next question](./A_7_official_duties_contractor.md)</kbd>
