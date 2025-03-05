@@ -9,4 +9,4 @@
 	Please fill out the survey as though you were still working at your last job.
 </details>
 
-<kbd><br>[Start the survey](./4_main_form_employee.md)<br></kbd>
+<kbd>[Start the survey](./4_main_form_employee.md)</kbd>

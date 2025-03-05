@@ -30,4 +30,5 @@ Select multiple if appropriate, or select "None".
 	Please specify any other additional roles:
 </details>
 
-[Next question](./A_5_team_breakdown.md)
+<kbd>[Previous question](./A_3_role_category_contractor.md)</kbd> 
+<kbd>[Next question](./A_5_team_breakdown_contractor.md)</kbd>

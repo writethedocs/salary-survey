@@ -14,28 +14,36 @@ When all the sections have been filled out, the final “Submit” button will b
 
 Questions about the type of work you do, your workplace, and any changes that have occurred in the past year.
 
-**Your Job** (8 questions) <kbd> <br> [Answer Questions](../A_employment_parameters/A_1_hours.md) <br> </kbd>
+**Your Job** (8 questions) 
+<kbd>[Answer Questions](../A_employment_parameters/A_1_hours_employee.md)</kbd>
 
-**Workplace** (5–6 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**Workplace** (5–6 questions) 
+<kbd>[Answer Questions]()</kbd>
 
-**Job Changes** (5–6 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**Job Changes** (5–6 questions) 
+<kbd>[Answer Questions]()</kbd>
 
 ## Your salary
 
 :bulb: Questions about your salary and benefits as an employee, and your level of satisfaction.
 
-**Salary & Benefits** (6 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**Salary & Benefits** (6 questions) 
+<kbd>[Answer Questions]()</kbd>
 
-**Employee Satisfaction** (7 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**Employee Satisfaction** (7 questions) 
+<kbd>[Answer Questions]()</kbd>
 
 ## Demographics
 
 :bulb: Questions about the organizations you work for, about you, and a few final questions about the survey.
 
-**Your Organization** (3–8 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**Your Organization** (3–8 questions) 
+<kbd>[Answer Questions]()</kbd>
 
-**About You** (6 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**About You** (6 questions) 
+<kbd>[Answer Questions]()</kbd>
 
-**Feedback** (4 questions) <kbd> <br> [Answer Questions]() <br> </kbd>
+**Feedback** (4 questions) 
+<kbd>[Answer Questions]()</kbd>
 
-<kbd> <br> [Submit]() <br> </kbd>
+<kbd>[Submit]()</kbd>

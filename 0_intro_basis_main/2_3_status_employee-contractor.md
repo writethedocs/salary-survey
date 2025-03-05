@@ -12,6 +12,8 @@ Some of the questions may have different answers depending on whether you’re c
 - answer as whichever you earned the most income from; or
 - answer as whichever is the most regular mode of working for you.
 
+<hr>
+
 :question: As an employee, currently:
 - I'm employed
 - I'm not employed 
@@ -20,6 +22,8 @@ Some of the questions may have different answers depending on whether you’re c
   <summary>Show message if "I'm not employed"</summary>
 	Please fill out the survey as though you were still working at your last job.
 </details>
+
+<hr>
 
 :question: As a contractor or freelancer, currently:
 - I have work
@@ -30,4 +34,4 @@ Some of the questions may have different answers depending on whether you’re c
 	Please fill out the survey as though you were still working at your last job.
 </details>
 
-[Start the survey](./4_main_form_employee-contractor.md)
+<kbd>[Start the survey](./4_main_form_employee-contractor.md)</kbd>
