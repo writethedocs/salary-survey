@@ -1,6 +1,6 @@
 # Role duration
 
-## Employee instructions
+## Employees
 
 :question: How long have you worked at your current organization, in your current role?
 
@@ -8,7 +8,7 @@ Please select the length of time for your current position at your current organ
 
 If you have changed roles at the same organization, please select the length of time that you have been in your current role.
 
-## Contractor instructons
+## Contractors
 
 :question: How long have you worked as a contractor or freelancer, or been self-employed? 
 
