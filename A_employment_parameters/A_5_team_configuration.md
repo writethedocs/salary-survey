@@ -16,5 +16,5 @@ Select multiple options, if appropriate.
 	Please describe how you work with others:
 </details>
 
-<kbd>[Previous question](./A_4_other_roles_contractor.md)</kbd> 
-<kbd>[Next question](./A_6_role_duration_contractor.md)</kbd>
+<kbd>[Previous question](A_4_other_roles.md)</kbd> 
+<kbd>[Next question](A_6_role_duration.md)</kbd>

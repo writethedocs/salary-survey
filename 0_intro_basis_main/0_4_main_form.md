@@ -27,13 +27,13 @@ When all the sections have been filled out, the final “Submit” button will b
 
 Questions about the type of work you do, your workplace, and any changes that have occurred in the past year.
 
-**Your Job** (8 questions) <kbd>[Answer Questions - Employees](../A_employment_parameters/A_1_hours_employee.md)</kbd> <kbd>[Answer Questions - Contractors](../A_employment_parameters/A_1_hours_contractor.md)</kbd>
+**Your Job** (8 questions) <kbd>[Answer Questions](../A_employment_parameters/A_1_hours.md)</kbd>
 
 **Workplace** (5–6 questions) 
 <kbd>[Answer Questions](../B_workplace/B_1_work_location.md)</kbd>
 
 **Job Changes** (5–6 questions) 
-<kbd>[Answer Questions - Employees]()</kbd> <kbd>[Answer Questions - Contractors]()</kbd>
+<kbd>[Answer Questions]()</kbd> 
 
 ## Your salary 
 

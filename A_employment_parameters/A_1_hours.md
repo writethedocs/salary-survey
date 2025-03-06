@@ -14,4 +14,4 @@
 	Please indicate how many hours you work:
 </details>
 
-<kbd>[Next question](./A_2_job_title_contractor.md)</kbd>
+<kbd>[Next question](A_2_job_title.md)</kbd>

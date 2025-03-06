@@ -30,5 +30,5 @@ Select multiple if appropriate, or select "None".
 	Please specify any other additional roles:
 </details>
 
-<kbd>[Previous question](./A_3_role_category_contractor.md)</kbd> 
-<kbd>[Next question](A_5_team_configuration_contractor.md)</kbd>
+<kbd>[Previous question](A_3_role_category.md)</kbd> 
+<kbd>[Next question](A_5_team_configuration.md)</kbd>
