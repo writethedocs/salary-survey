@@ -33,39 +33,39 @@ Questions about the type of work you do, your workplace, and any changes that ha
 <kbd>[Answer Questions](../B_workplace/B_1_work_location.md)</kbd>
 
 **Job Changes** (5–6 questions) 
-<kbd>[Answer Questions]()</kbd> 
+<kbd>[Answer Questions](../C_job_changes/C_1_change.md)</kbd> 
 
 ## Your salary 
 
 :bulb: Questions about your salary and benefits as an employee, and your level of satisfaction.
 
 **Salary & Benefits** (6 questions) 
-<kbd>[Answer Questions - Employees]()</kbd>
+<kbd>[Answer Questions - Employees](../Da_employee_salary_benefits/Da_1_salary.md)</kbd>
 
 **Employee Satisfaction** (7 questions) 
-<kbd>[Answer Questions - Employees]()</kbd>
+<kbd>[Answer Questions - Employees](../Ea_employee_satisfaction/Ea_1_salary_satisfaction.md)</kbd>
 
 ## Your rates 
 
 :bulb: Questions about your contract rates, and your level of satisfaction.
 
 **Rates** (5 questions) 
-<kbd>[Answer Questions - Contractors]()</kbd>
+<kbd>[Answer Questions - Contractors](../Db_contractor_rates/Db_1_preferred_term.md)</kbd>
 
 **Contractor Satisfaction** (7 questions) 
-<kbd>[Answer Questions - Contractors]()</kbd>
+<kbd>[Answer Questions - Contractors](../Eb_contractor_satisfaction/Eb_1_earnings_satisfaction.md)</kbd>
 
 ## Demographics
 
 :bulb: Questions about the organizations you work for, about you, and a few final questions about the survey.
 
 **Your Organization** (3–8 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions](../F_organization_demographics/F_1_organization_size.md)</kbd>
 
 **About You** (6 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions](../G_respondent_demographics/G_1_age_group.md)</kbd>
 
 **Feedback** (4 questions) 
-<kbd>[Answer Questions]()</kbd>
+<kbd>[Answer Questions](../H_survey_feedback/H_1_previous_surveys.md)</kbd>
 
-<kbd>[Submit]()</kbd>
+<kbd>[Submit](../0_intro_basis_main/thankyou.md)</kbd>
