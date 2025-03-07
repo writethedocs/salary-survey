@@ -10,25 +10,26 @@ This project allows community members to propose and discuss improvements to the
 
 The survey for the current year is opened for submissions in early September and closed at the end of December. The results are released at the beginning of April of the following year. 
 
-To allow time to build and test the survey form, **the deadline for finalizing the questions for the 2024 survey is August 16, 2024.**
+To allow time to build and test the survey form, **the deadline for finalizing the questions for the 2025 survey is July 01, 2025.**
 
 ## Organization
 
-The questions are divided into nine thematic sections, indicated by a letter:
+The questions are divided into eight sections:
 
 <ol type="A">
   <li>Employment parameters</li>
   <li>Job changes</li>
   <li>Workplace</li>
-  <li>Employee salary, benefits, and satisfaction</li>
-  <li>Contractor rates and satisfaction</li>
-  <li>Pay transparency</li>
+  <li>Salary and benefits/Rates</li>
+  <li>Satisfaction</li>
   <li>Organization demographics</li>
   <li>Respondent demographics</li>
   <li>Survey feedback</li>
 </ol>
 
-The text of the questions for each section can be found in the corresponding markdown file in the repository.
+This repository is a clickable, barebones wireframe version of the survey site. Each question is in an individual markdown file.
+
+[Browse the survey questions here]() *link tbc
 
 ## Considerations
 
