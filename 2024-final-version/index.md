@@ -1,4 +1,4 @@
-# WTD Documentation Salary Survey 2025
+# WTD Documentation Salary Survey 2024
 
 ## What is this?
 
