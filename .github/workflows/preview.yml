@@ -6,6 +6,7 @@ on:
       - main  # Runs only for PRs into "main"
 
 jobs:
+  deploy-preview:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code

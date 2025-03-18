@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Team breakdown
 
 :question: When working with other people, what is your typical role?
@@ -16,5 +21,5 @@ Select multiple options, if appropriate.
 	Please describe how you work with others:
 </details>
 
-<kbd>[Previous question](A_4_other_roles.md)</kbd> 
-<kbd>[Next question](A_6_role_duration.md)</kbd>
+[Previous question](A_4_other_roles.html) 
+[Next question](A_6_role_duration.html)

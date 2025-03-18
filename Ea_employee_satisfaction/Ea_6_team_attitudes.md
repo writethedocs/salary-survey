@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Team attitudes
 
 :question: How strongly do you agree with the following statements about your team and organization?
@@ -12,5 +17,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree] [Not relevant]
 
-<kbd>[Previous question](./Ea_5_workplace_attitudes.md)</kbd>
-<kbd>[Next question](./Ea_7_comments.md)</kbd>
+[Previous question](./Ea_5_workplace_attitudes.html)
+[Next question](./Ea_7_comments.html)

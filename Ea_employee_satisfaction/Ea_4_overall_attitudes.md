@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Overall attitudes
 
 :question: How strongly do you agree with the following statements about your job?
@@ -13,5 +18,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree] [Not relevant]
 
-<kbd>[Previous question](./Ea_3_salary_attitudes.md)</kbd>
-<kbd>[Next question](./Ea_5_workplace_attitudes.md)</kbd>
+[Previous question](./Ea_3_salary_attitudes.html)
+[Next question](./Ea_5_workplace_attitudes.html)

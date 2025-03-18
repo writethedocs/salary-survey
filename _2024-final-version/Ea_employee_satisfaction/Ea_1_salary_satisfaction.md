@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Salary satisfaction
 
 :question: Considering only your salary and benefits, rate your level of satisfaction:
@@ -8,4 +13,4 @@
 - Unsatisfied
 - Very unsatisfied
 
-<kbd>[Next question](./Ea_2_overall_satisfaction.md)</kbd>
+[Next question](./Ea_2_overall_satisfaction.html)

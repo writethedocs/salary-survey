@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Organization size
 
 ## Organization Demographics for Contractors
@@ -18,4 +23,4 @@ Contractors: if you work for one main organization or if you have a typical clie
 - 10,001 - 100,000
 - More than 100,000
 
-<kbd>[Next question](./F_2_organization_type.md)</kbd>
+[Next question](./F_2_organization_type.html)

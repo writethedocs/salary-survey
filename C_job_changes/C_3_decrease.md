@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Salary/Earnings decrease
 
 Shown if respondents answered "yes - decreased" in the previous question
@@ -41,5 +46,5 @@ Select multiple, if appropriate.
 	Please specify why your earnings increased:
 </details>
 
-<kbd>[Previous question](./C_2_increase.md)</kbd> 
-<kbd>[Next question](./C_4_negotiation.md)</kbd> 
+[Previous question](./C_2_increase.html) 
+[Next question](./C_4_negotiation.html) 

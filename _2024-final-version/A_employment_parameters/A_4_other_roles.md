@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Other roles
 
 :question: What additional roles do you also perform?
@@ -30,5 +35,5 @@ Select multiple if appropriate, or select "None".
 	Please specify any other additional roles:
 </details>
 
-<kbd>[Previous question](A_3_role_category.md)</kbd> 
-<kbd>[Next question](A_5_team_configuration.md)</kbd>
+[Previous question](A_3_role_category.html) 
+[Next question](A_5_team_configuration.html)

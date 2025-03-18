@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Role duration
 
 ## Employees
@@ -27,5 +32,5 @@ This is how long you have been a contractor or freelancer only - your total year
 	Please indicate how many years:
 </details>
 
-<kbd>[Previous question](A_5_team_configuration.md)</kbd> 
-<kbd>[Next question](A_7_official_duties.md)</kbd>
+[Previous question](A_5_team_configuration.html) 
+[Next question](A_7_official_duties.html)

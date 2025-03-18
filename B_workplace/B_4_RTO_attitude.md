@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # RTO attitude
 
 > [!ALERT]
@@ -11,5 +16,5 @@
 - Negative
 - Very negative
 
-<kbd>[Previous question](B_3_RTO_policy.md)</kbd>
-<kbd>[Next question](./B_5_workplace_preference.md)</kbd>
+[Previous question](B_3_RTO_policy.html)
+[Next question](./B_5_workplace_preference.html)

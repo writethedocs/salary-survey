@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Extra statutory benefits
 
 :question: Does your salary package include any of the following statutory benefits, in excess of the required minimums?
@@ -16,5 +21,5 @@ For example, in Germany, employees are legally entitled to 20 days of paid vacat
 - I'm not sure
 - None of the above
 
-<kbd>[Previous question](./Da_2_statutory_benefits.md)</kbd>
-<kbd>[Next question](Da_4_non_statutory_benefits.md)</kbd>
+[Previous question](./Da_2_statutory_benefits.html)
+[Next question](Da_4_non_statutory_benefits.html)

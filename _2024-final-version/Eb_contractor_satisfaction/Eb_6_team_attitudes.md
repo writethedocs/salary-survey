@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Attitudes: team
 
 :question: How strongly do you agree with the following statements about the people and organizations that you work with?
@@ -12,5 +17,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree] [Not relevant]
 
-<kbd>[Previous question](./Eb_5_workplace_attitudes.md)</kbd>
-<kbd>[Next question](./Eb_7_comments.md)</kbd>
+[Previous question](./Eb_5_workplace_attitudes.html)
+[Next question](./Eb_7_comments.html)

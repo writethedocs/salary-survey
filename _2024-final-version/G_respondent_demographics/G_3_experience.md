@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Personal experience
 
 :question: How many years of experience do you have in documentation?
@@ -18,5 +23,5 @@
 	Please specify how many years experience you have:
 </details>
 
-<kbd>[Previous question](./G_2_gender_identity.md)</kbd>
-<kbd>[Next question](./G_4_education_level.md)</kbd>
+[Previous question](./G_2_gender_identity.html)
+[Next question](./G_4_education_level.html)

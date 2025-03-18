@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Organization industry
 
 :question: Which industry (or industries) does your organization operate in?
@@ -44,5 +49,5 @@ Select one or multiple, as appropriate.
 	Please specify the industry in which your organization operates:
 </details>
 
-<kbd>[Previous question](./F_2_organization_type.md)</kbd>
-<kbd>[Next question](./F_4_transparency_official.md)</kbd>
+[Previous question](./F_2_organization_type.html)
+[Next question](./F_4_transparency_official.html)

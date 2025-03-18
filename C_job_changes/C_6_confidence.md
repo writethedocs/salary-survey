@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Employment confidence
 
 ## Employees
@@ -16,5 +21,5 @@
 - Around the same
 - Less confident
 
-<kbd>[Previous question](./C_5_search_status.md)</kbd>
-<kbd>[Next question](./C_7_comments.md)</kbd>
+[Previous question](./C_5_search_status.html)
+[Next question](./C_7_comments.html)

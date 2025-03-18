@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Attitudes: workplace
 
 :question: How strongly do you agree with the following statements about your workplace(s) (remote, on-site or hybrid environment)?
@@ -9,5 +14,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree] [Not relevant]
 
-<kbd>[Previous question](./Eb_4_contracts_attitudes.md)</kbd>
-<kbd>[Next question](./Eb_6_team_attitudes.md)</kbd>
+[Previous question](./Eb_4_contracts_attitudes.html)
+[Next question](./Eb_6_team_attitudes.html)

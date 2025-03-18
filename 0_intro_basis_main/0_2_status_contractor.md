@@ -1,4 +1,9 @@
-# Current employment status
+---
+layout: default
+title: Current employment status - Contractors
+---
+
+# Preliminary questions: Current employment status
 
 :question: As a contractor or freelancer, currently:
 - I have work
@@ -9,4 +14,4 @@
 	Please fill out the survey as though you were still working at your last contract or with your last freelance client.
 </details>
 
-<kbd>[Start the survey](./0_4_main_form.md)</kbd>
+[Start the survey](./0_4_main_form.html)

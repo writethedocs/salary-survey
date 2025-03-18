@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Statutory benefits
 
 :question: Does your salary package include any of the following statutory benefits?
@@ -13,5 +18,5 @@ Please indicate if you have access to any of the following statutory benefits. C
 - Pension / superannuation / retirement
 - None of the above
 
-<kbd>[Previous question](./Da_1_salary.md)</kbd>
-<kbd>[Next question](./Da_3_extra_statutory_benefits.md)</kbd>
+[Previous question](./Da_1_salary.html)
+[Next question](./Da_3_extra_statutory_benefits.html)

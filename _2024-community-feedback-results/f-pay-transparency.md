@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # F: Pay transparency
 
 ## Official policy

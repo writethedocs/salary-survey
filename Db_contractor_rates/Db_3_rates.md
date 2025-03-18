@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Your rates
 
 ## Rates Comparison
@@ -18,5 +23,5 @@ For privacy, the rate figures you enter will be masked until you check the "Show
 
 [ ] Show my rates
 
-<kbd>[Previous question](./Db_2_work_type.md)</kbd>
-<kbd>[Next question](./Db_4_rates_confirmation.md)</kbd>
+[Previous question](./Db_2_work_type.html)
+[Next question](./Db_4_rates_confirmation.html)

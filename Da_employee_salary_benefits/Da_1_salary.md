@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Your salary
 
 Please enter your salary before taxes are taken out, and indicate whether this is a monthly or yearly amount (in some countries it is customary to talk about monthly salary, while in others yearly figures are more common). Monthly figures will be multiplied by 12 for comparison with yearly figures.
@@ -17,4 +22,4 @@ This amount is:
 
 [ ] Show my salary
 
-<kbd>[Next question](./Da_2_statutory_benefits.md)</kbd>
+[Next question](./Da_2_statutory_benefits.html)
