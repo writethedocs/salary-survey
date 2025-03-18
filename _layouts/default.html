@@ -10,7 +10,7 @@
     </head>
 <body>
     <div id="info-bar">
-        ⚠️⚠️ This is a wireframe version of the WTD Documentation Salary Survey form for community feedback. This is **not** the real survey. ⚠️⚠️
+        ⚠️ This is a wireframe version of the WTD Documentation Salary Survey form for community feedback. This is **not** the real survey. ⚠️
     </div>
     <header>
         <h1>{{ site.title }}</h1>
@@ -18,7 +18,9 @@
     <main>
         {{ content | convert_callouts }}
     </main>
-    <footer>
+    <footer style="margin-top:40px;background-color:#f1f8ff;">
+        <h2>Give Feedback</h2>
+        <p>Connect your GitHub account to leave a comment, which will be logged as a GitHub issue. </p>
         <script src="https://utteranc.es/client.js"
             repo="writethedocs/salary-survey"
             issue-term="pathname"
