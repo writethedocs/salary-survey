@@ -34,3 +34,8 @@ jobs:
           destination_dir: pr-${{ github.event.pull_request.number }}
           keep_files: true
 
+      - name: Comment on PR with Preview URL
+              uses: thollander/actions-comment-pull-request@v2
+              with:
+                message: "🚀 PR Preview available at: https://writethedocs.github.io/salary-survey/pr-${{ github.event.pull_request.number }}/"
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
