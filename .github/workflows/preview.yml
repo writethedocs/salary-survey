@@ -1,0 +1,38 @@
+name: Deploy PR Preview
+
+on:
+  pull_request:
+    branches:
+      - main  # Runs only for PRs into "main"
+
+jobs:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Ruby and Jekyll
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+
+      - name: Install Jekyll and Plugins
+        run: |
+          gem install jekyll jemoji
+
+      - name: Build Jekyll site
+        run: jekyll build --destination _site
+
+      - name: Deploy to GitHub Pages (Preview)
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages  # <--- Deploys previews here
+          publish_dir: ./_site
+          destination_dir: pr-${{ github.event.pull_request.number }}  # <--- PR-specific subfolder
+          keep_files: true  # Keeps multiple PR previews
+      - name: Comment on PR with Preview URL
+        uses: thollander/actions-comment-pull-request@v2
+        with:
+          message: "🚀 PR Preview available at: https://writethedocs.github.io/salary-survey/pr-${{ github.event.pull_request.number }}/index.html"
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
