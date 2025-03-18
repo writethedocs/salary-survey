@@ -3,7 +3,7 @@ name: Deploy PR Preview
 on:
   pull_request:
     branches:
-      - main
+      - main  # Runs only for PRs into "main"
 
 jobs:
   deploy-preview:
@@ -17,13 +17,19 @@ jobs:
         with:
           ruby-version: '3.0'
 
-      - name: Install Jekyll dependencies
+      - name: Install Jekyll (if no Gemfile exists)
+        run: |
+          gem install jekyll
+        if: "!contains(toJSON(github.event.repository.contents), 'Gemfile')"
+
+      - name: Install Jekyll dependencies (if Gemfile exists)
         run: |
           gem install bundler
           bundle install
+        if: "contains(toJSON(github.event.repository.contents), 'Gemfile')"
 
       - name: Build Jekyll site
-        run: bundle exec jekyll build --destination _site
+        run: bundle exec jekyll build --destination _site || jekyll build --destination _site
 
       - name: Deploy to GitHub Pages (Preview)
         uses: peaceiris/actions-gh-pages@v3
