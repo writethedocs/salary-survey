@@ -21,19 +21,16 @@ jobs:
         run: |
           gem install jekyll jemoji
 
-      - name: Build Jekyll site
-        run: jekyll build --destination _site
+      - name: Build Jekyll site (Preview)
+        run: |
+          JEKYLL_ENV=development jekyll build --destination _site  # Set to 'development' for PR preview
 
       - name: Deploy to GitHub Pages (Preview)
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages  # <--- Deploys previews here
+          publish_branch: gh-pages
           publish_dir: ./_site
-          destination_dir: pr-${{ github.event.pull_request.number }}  # <--- PR-specific subfolder
-          keep_files: true  # Keeps multiple PR previews
-      - name: Comment on PR with Preview URL
-        uses: thollander/actions-comment-pull-request@v2
-        with:
-          message: "🚀 PR Preview available at: https://writethedocs.github.io/salary-survey/pr-${{ github.event.pull_request.number }}/index.html"
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          destination_dir: pr-${{ github.event.pull_request.number }}
+          keep_files: true
+
