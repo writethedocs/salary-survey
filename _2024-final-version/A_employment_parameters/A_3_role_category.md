@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Role category
 
 :question: How would you categorize your primary role?
@@ -25,5 +30,5 @@ Please select one category - you will be able to select additional categories in
 	Please specify how you would categorize your primary role:
 </details>
 
-<kbd>[Previous question](A_2_job_title.md)</kbd> 
-<kbd>[Next question](A_4_other_roles.md)</kbd>
+[Previous question](A_2_job_title.html) 
+[Next question](A_4_other_roles.html)

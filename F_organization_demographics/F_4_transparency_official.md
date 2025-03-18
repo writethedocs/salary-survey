@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Pay transparency: official policy
 
 :question: Is there an official pay transparency policy at your organization?
@@ -18,5 +23,5 @@ Organizations with pay transparency are open about salaries and benefits for exi
 - No
 - I'm not sure
 
-<kbd>[Previous question](./F_3_organization_industry.md)</kbd>
-<kbd>[Next question](./F_5_transparency_unofficial.md)</kbd>
+[Previous question](./F_3_organization_industry.html)
+[Next question](./F_5_transparency_unofficial.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Job changes
 
 ## Employees
@@ -20,4 +25,4 @@ Please do not take outside factors such as inflation, cost of living or currency
 - Yes - my earnings decreased
 - No - my earnings stayed the same
 
-<kbd>[Next question](./C_2_increase.md)</kbd>
+[Next question](./C_2_increase.html)

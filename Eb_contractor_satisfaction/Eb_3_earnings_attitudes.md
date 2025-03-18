@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Attitudes: earnings
 
 :question: How strongly do you agree with the following statements about your contract or freelance earnings?
@@ -8,5 +13,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree] [Not relevant]
 
-<kbd>[Previous question](./Eb_2_overall_satisfaction.md)</kbd>
-<kbd>[Next question](./Eb_4_contracts_attitudes.md)</kbd>
+[Previous question](./Eb_2_overall_satisfaction.html)
+[Next question](./Eb_4_contracts_attitudes.html)

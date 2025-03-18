@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Workplace preference
 
 :question: Regardless of the policy at your current organization or your current situation, what is your preferred work location?
@@ -7,5 +12,5 @@
 - I prefer the flexibility of a hybrid work location (partly on-site, partly remote)
 - I have no strong preference / it depends on the situation
 
-<kbd>[Previous question](./B_4_RTO_attitude.md)</kbd>
-<kbd>[Next question](./B_6_comments.md)</kbd>
+[Previous question](./B_4_RTO_attitude.html)
+[Next question](./B_6_comments.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Search status
 
 ## Employees
@@ -21,5 +26,5 @@
 - I'm actively looking for new contracts or freelance projects and would also consider taking a permanent position
 - I'm only contracting while I search for a permanent position
 
-<kbd>[Previous question](./C_4_negotiation.md)</kbd>
-<kbd>[Next question](./C_6_confidence.md)</kbd>
+[Previous question](./C_4_negotiation.html)
+[Next question](./C_6_confidence.html)

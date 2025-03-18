@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Rates confirmation
 
 Please check the rates that you've entered and if they look correct, confirm below. If you need to make changes, use the "Previous" button to go back and edit them.
@@ -8,5 +13,5 @@ Please check the rates that you've entered and if they look correct, confirm bel
 
 [ ] Yes! These are my rates.
 
-<kbd>[Previous question](./Db_3_rates.md)</kbd>
-<kbd>[Next question](./Db_5_comments.md)</kbd>
+[Previous question](./Db_3_rates.html)
+[Next question](./Db_5_comments.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Survey ratings
 
 :question: How strongly do you agree with the following statements about this survey?
@@ -8,5 +13,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree]
 
-<kbd>[Previous question](./H_1_previous_surveys.md)</kbd>
-<kbd>[Next question](./H_3_private_feedback.md)</kbd>
+[Previous question](./H_1_previous_surveys.html)
+[Next question](./H_3_private_feedback.html)

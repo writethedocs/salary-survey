@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Attitudes: salary
 
 :question: How strongly do you agree with the following statements about your salary and benefits?
@@ -8,5 +13,5 @@
 
 [Strongly agree] [Agree] [Neutral] [Disagree] [Strongly disagree] [Not relevant]
 
-<kbd>[Previous question](./Ea_2_overall_satisfaction.md)</kbd>
-<kbd>[Next question](./Ea_4_overall_attitudes.md)</kbd>
+[Previous question](./Ea_2_overall_satisfaction.html)
+[Next question](./Ea_4_overall_attitudes.html)

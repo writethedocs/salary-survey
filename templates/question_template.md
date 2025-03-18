@@ -7,7 +7,7 @@
 	message
 </details>
 
-<kbd>[Previous question]()</kbd>
-<kbd>[Next question]()</kbd>
+[Previous question]()
+[Next question]()
 
-<kbd>[Complete this section](../0_intro_basis_main/0_4_main_form.md)</kbd>
+[Complete this section](../0_intro_basis_main/0_4_main_form.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Organization location
 
 :question: Is your organization multinational?
@@ -20,5 +25,5 @@ If the autofill does not include a state or province for your location, please e
 
 [City] [State / Province / Region] [Country]
 
-<kbd>[Previous question](./F_6_transparency_attitude.md)</kbd>
-<kbd>[Next question](./F_8_comments.md)</kbd>
+[Previous question](./F_6_transparency_attitude.html)
+[Next question](./F_8_comments.html)

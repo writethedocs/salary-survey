@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Non-statutory benefits
 
 :question: Does your salary package include any of the following non-statutory benefits?
@@ -24,5 +29,5 @@ Check all that apply, or select "none of the above".
 	Please specify your additional benefits:
 </details>
 
-<kbd>[Previous question](./Da_3_extra_statutory_benefits.md)</kbd>
-<kbd>[Next question](./Da_5_salary_confirmation.md)</kbd>
+[Previous question](./Da_3_extra_statutory_benefits.html)
+[Next question](./Da_5_salary_confirmation.html)

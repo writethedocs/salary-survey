@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Salary/Rate negotiations
 
 ## Employees
@@ -16,5 +21,5 @@ This could be through formal or informal procedures.
 - yes
 - no 
 
-<kbd>[Previous question](./C_3_decrease.md)</kbd>
-<kbd>[Next question](./C_5_search_status.md)</kbd>
+[Previous question](./C_3_decrease.html)
+[Next question](./C_5_search_status.html)

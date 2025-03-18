@@ -1,10 +1,15 @@
-# WTD Documentation Salary Survey 2025
+---
+layout: default
+title: Home
+---
+
+# Home page: intro content
 
 ## What is this?
 
 This annual survey, run by the Write the Docs community, aims to gather data about salaries for people **working in documentation and related fields** around the world. 
 
-- [Browse previous survey results](https://www.writethedocs.org/surveys/)
+- Browse previous survey results (https://www.writethedocs.org/surveys/)
 
 We hope that this data can help our community members determine **appropriate salary ranges**, provide **a benchmark for negotiations**, and inform **employment-related decision-making**.
 
@@ -12,7 +17,7 @@ Additionally, we’re hoping the results spark discussion of employment-related 
 
 ## Who’s behind it?
 
-[Write the Docs](https://www.writethedocs.org/) is a global community of people who care about documentation. We currently:
+Write the Docs (https://www.writethedocs.org/) is a global community of people who care about documentation. We currently:
 
 - have a Slack network with thousands of participants
 - run conferences on three continents
@@ -46,4 +51,4 @@ Estimated time to complete the entire survey is 15-20 minutes.
 
 **One final note:** while it’s possible to successfully complete the survey on mobile devices, due to the scope of the survey and some of the long lists of options, the user experience is definitely better on larger screens.
 
-<kbd>[Get started](0_intro_basis_main/0_1_basis_all.md)</kbd>
+[Get started](0_intro_basis_main/0_1_basis_all.html)

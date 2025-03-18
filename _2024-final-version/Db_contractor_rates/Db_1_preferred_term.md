@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Preferred term
 
 :question: What's your preferred term to describe the kind of work you do?
@@ -12,4 +17,4 @@
 	Please specify your preferred term:
 </details>
 
-<kbd>[Next question](./Db_2_work_type.md)</kbd>
+[Next question](./Db_2_work_type.html)

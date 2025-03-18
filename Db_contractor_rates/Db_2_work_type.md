@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Work type
 
 :question: What kind of contract, freelance or self-employed work do you typically engage in?
@@ -21,5 +26,5 @@ Check all that apply.
 	Please describe the type of contract, freelance or self-employed work you typically engage in:
 </details>
 
-<kbd>[Previous question](./Db_1_preferred_term.md)</kbd>
-<kbd>[Next question](./Db_3_rates.md)</kbd>
+[Previous question](./Db_1_preferred_term.html)
+[Next question](./Db_3_rates.html)

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # B: Job changes
 
 ## Salary or contract/freelance income change

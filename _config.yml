@@ -1,0 +1,8 @@
+title: "WTD Documentation Salary Survey Questions - Wireframe"
+description: "A clickable wireframe of the WTD Documentation Salary Survey Questions, for gathering community feedback."
+baseurl: ""  # Leave empty for local development
+url: "https://writethedocs.github.io/salary-survey/"
+plugins:
+  - jemoji
+
+exclude: ["_plugins"]

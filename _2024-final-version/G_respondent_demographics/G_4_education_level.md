@@ -1,3 +1,8 @@
+---
+layout: default
+title: 
+---
+
 # Education level
 
 :question: What is the highest level of education that you have completed?
@@ -13,5 +18,5 @@ If your education level isn't listed, choose the option that's the closest equiv
 - None of the above
 - I'd rather not say
 
-<kbd>[Previous question](./G_3_experience.md)</kbd>
-<kbd>[Next question](./G_5_location.md)</kbd>
+[Previous question](./G_3_experience.html)
+[Next question](./G_5_location.html)
