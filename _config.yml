@@ -1,4 +1,4 @@
-title: "WTD Documentation Salary Survey Questions - Wireframe"
+title: "Salary Survey Questions"
 description: "A clickable wireframe of the WTD Documentation Salary Survey Questions, for gathering community feedback."
 
 plugins:
@@ -7,12 +7,4 @@ plugins:
 exclude: ["_plugins"]
 
 url: "https://writethedocs.github.io"
-baseurl: "/salary-survey"  # Default value for live site
-
-# Baseurl for production (live site)
-production:
-  baseurl: "/salary-survey"  # Live site baseurl (when deploying from main branch)
-
-# Baseurl for development (preview site)
-development:
-  baseurl: ""  # No baseurl for PR previews, as it's served from the root in GitHub Actions
+baseurl: "/salary-survey"  

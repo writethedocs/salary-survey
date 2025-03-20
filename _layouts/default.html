@@ -9,14 +9,17 @@
         <link rel="stylesheet" href="{{ '/assets/css/props.colors-hsl.css' | relative_url }}">
     </head>
 <body>
-    <div id="info-bar">
-        ⚠️ This is a wireframe version of the WTD Documentation Salary Survey form for community feedback. This is **not** the real survey. ⚠️
-        <br><a href="https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey" target="_blank">Find out about how you can contribute here.</a>
-    </div>
     <header>
-        <h1>{{ site.title }}</h1>
+        <div id="info-bar">
+            This is a clickable wireframe of the WTD Salary Survey form for community feedback. <strong>This is *not* the real survey.</strong>
+        </div>
+        <div class="container cols">
+            <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+            <div><a href="https://github.com/writethedocs/salary-survey?tab=readme-ov-file#write-the-docs-annual-documentation-salary-survey" target="_blank">Contribution Guide</a></div>
+        </div>
     </header>
     <main>
+        {% include breadcrumbs.html %}
         {{ content | convert_callouts }}
     </main>
     <footer style="margin-top:40px;background-color:#f1f8ff;padding:20px 80px">
