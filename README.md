@@ -39,7 +39,7 @@ When proposing changes, keep the following in mind:
 - continuity from one year to the next is important, to allow changes over time to be observed - changes to existing questions should not change the context in which the question was previously asked
 - the length of the survey is already pushing the limits of good taste, so any significant additions need to be evaluated carefully to make sure they don't negatively impact the survey's completion rate
 - use inclusive, gender-neutral, non-biased, unambiguous language - and remember that respondents may be employed, unemployed, contractors or freelancers, in any country or region, and that while "technical writer" is historically the most common role amongst the Write the Docs community, many people working in documentation are not technical writers 
-- multiple choice (either single answer, or multple answer) questions are favoured over open-ended or text-entry questions, for ease of data processing
+- multiple choice (either single answer, or multiple answer) questions are favoured over open-ended or text-entry questions, for ease of data processing
 
 ## How to contribute
 

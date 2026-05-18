@@ -50,7 +50,7 @@ Which industry (or industries) does your organization operate in? Select one or 
 - Manufacturing, Engineering, Precision Engineering, Hardware, Semiconductor
 - Media, Radio, TV, Journalism
 - Non-profit, Community
-- Parks, Recreation, Nature, Wildnerness, Outdoors, Conservation, Ecotourism
+- Parks, Recreation, Nature, Wilderness, Outdoors, Conservation, Ecotourism
 - Retail, Consumer Products, Fashion
 - Real Estate
 - Science, Research
